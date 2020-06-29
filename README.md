@@ -1,7 +1,7 @@
 # Predicting Attrition-Ratio-of-employee
-####This is an Hacker Earth's problem of predicting Employees Attrition Ratio.
+#### This is an Hacker Earth's problem of predicting Employees Attrition Ratio.
 
-####The problelm statement is finding the attrition ratio of an employee. Metric to use is MSE
+#### The problelm statement is finding the attrition ratio of an employee. Metric to use is MSE
 
 #### After performing explorative data analysis, have filled all the NA values with respective medians/means of the features.
 
